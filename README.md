@@ -40,4 +40,4 @@ Customers table structure will be the same as is used in company database. With 
 
 
 
-[![HitCount](http://hits.dwyl.io/bytk/nailedit.svg)](http://hits.dwyl.io/bytk/nailedit)
+[![HitCount](http://hits.dwyl.io/bytk/assets.svg)](http://hits.dwyl.io/bytk/assets)
